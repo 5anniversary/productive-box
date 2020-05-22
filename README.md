@@ -36,6 +36,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 ### Project setup
 
+
 1. Fork this repo
 2. Edit the [environment variable](https://github.com/maxam2017/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
 
